@@ -7,3 +7,5 @@ int main() {
     cout << "Doma smo" << endl;
     cout << "Ampak je koronavirus" << endl;
 }
+
+/* neznam c++-a */
